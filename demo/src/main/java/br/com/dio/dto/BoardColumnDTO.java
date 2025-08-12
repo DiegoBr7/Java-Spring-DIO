@@ -4,8 +4,7 @@ import br.com.dio.persistence.entity.BoardColumnKindEnum;
 
 public record BoardColumnDTO(Long id,
                              String name,
-                             int order,
-                             BoardColumnKindEnum kind,
+                             int anInt, BoardColumnKindEnum kind,
                              int cardsAmount
                              ) {
 }

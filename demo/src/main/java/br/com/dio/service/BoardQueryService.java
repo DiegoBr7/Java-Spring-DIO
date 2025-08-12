@@ -33,7 +33,7 @@ public Optional<BoardEntity> findById(final Long id) throws SQLException{
         var optional = dao.findById(id);
         if (optional.isPresent()){
             var entity = optional.get();
-            var columns = boardColumnDAO.findByBoardIDWithDetails(entity.getId());
+            var columns = boardColumnDAO.findByBoardIdWithDetails(entity.getId());
             var dto = new BoardDetailDTO(entity.getId(), entity.getName(), columns);
             return Optional.of(dto);
         }

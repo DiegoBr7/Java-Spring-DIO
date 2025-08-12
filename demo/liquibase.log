@@ -1,15 +1,15 @@
-ago. 07, 2025 9:26:55 PM liquibase.changelog
+ago. 10, 2025 9:03:49 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202508041742.sql
-ago. 07, 2025 9:26:55 PM liquibase.changelog
+ago. 10, 2025 9:03:49 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202508071432.sql
-ago. 07, 2025 9:26:55 PM liquibase.changelog
+ago. 10, 2025 9:03:49 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202508071444.sql
-ago. 07, 2025 9:26:55 PM liquibase.changelog
+ago. 10, 2025 9:03:49 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202508071455.sql
-ago. 07, 2025 9:26:55 PM liquibase.changelog
+ago. 10, 2025 9:03:49 PM liquibase.changelog
 INFO: Reading from board.databasechangelog
 Database is up to date, no changesets to execute
-ago. 07, 2025 9:26:55 PM liquibase.changelog
+ago. 10, 2025 9:03:50 PM liquibase.changelog
 INFO: Reading from board.databasechangelog
 
 UPDATE SUMMARY
@@ -19,21 +19,21 @@ Filtered out:                 0
 -------------------------------
 Total change sets:            4
 
-ago. 07, 2025 9:26:55 PM liquibase.util
+ago. 10, 2025 9:03:50 PM liquibase.util
 INFO: UPDATE SUMMARY
-ago. 07, 2025 9:26:55 PM liquibase.util
+ago. 10, 2025 9:03:50 PM liquibase.util
 INFO: Run:                          0
-ago. 07, 2025 9:26:55 PM liquibase.util
+ago. 10, 2025 9:03:50 PM liquibase.util
 INFO: Previously run:               4
-ago. 07, 2025 9:26:55 PM liquibase.util
+ago. 10, 2025 9:03:50 PM liquibase.util
 INFO: Filtered out:                 0
-ago. 07, 2025 9:26:55 PM liquibase.util
+ago. 10, 2025 9:03:50 PM liquibase.util
 INFO: -------------------------------
-ago. 07, 2025 9:26:55 PM liquibase.util
+ago. 10, 2025 9:03:50 PM liquibase.util
 INFO: Total change sets:            4
-ago. 07, 2025 9:26:55 PM liquibase.util
+ago. 10, 2025 9:03:50 PM liquibase.util
 INFO: Update summary generated
-ago. 07, 2025 9:26:55 PM liquibase.lockservice
+ago. 10, 2025 9:03:50 PM liquibase.lockservice
 INFO: Successfully released change log lock
-ago. 07, 2025 9:26:55 PM liquibase.command
+ago. 10, 2025 9:03:50 PM liquibase.command
 INFO: Command execution complete
